@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
             textTheme: ThemeData.light().textTheme.copyWith(
                   title: TextStyle(
                     fontFamily: 'OpenSans',
-                    fontSize: 20,
+                    fontSize: 21,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
